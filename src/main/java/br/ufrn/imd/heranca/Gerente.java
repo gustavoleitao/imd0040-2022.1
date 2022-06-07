@@ -6,6 +6,7 @@ public class Gerente extends Funcionario {
         super(nome);
     }
 
+    @Override
     public void receber(){
         System.out.println("recebendo do gerente...");
     }
