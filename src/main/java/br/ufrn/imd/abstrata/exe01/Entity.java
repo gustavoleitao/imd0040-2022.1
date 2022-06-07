@@ -1,6 +1,8 @@
 package br.ufrn.imd.abstrata.exe01;
 
-import java.io.*;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
 
 public abstract class Entity {
 
