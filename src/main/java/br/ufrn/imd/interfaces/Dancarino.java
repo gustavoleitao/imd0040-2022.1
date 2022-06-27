@@ -6,8 +6,5 @@ public interface Dancarino {
 
     void dancar();
 
-    default void cantar(){
-        System.out.println(n);
-    }
 
 }
